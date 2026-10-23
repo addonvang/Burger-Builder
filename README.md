@@ -66,4 +66,4 @@ On macOS or Linux, use `:` instead of `;` in the module path.
 
 ## Author
 
-Addison
+Xyrus and Addison
